@@ -1,0 +1,7 @@
+---
+applications:  
+- name: SampleJenkins  
+  memory: 512M  
+  instances: 1  
+  host: SampleJenkins 
+  domain: cfapps.io  
